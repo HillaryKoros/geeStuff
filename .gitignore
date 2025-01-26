@@ -1,0 +1,11 @@
+# ignore envs
+
+env/
+
+.env
+
+
+data/
+
+
+*.tif
